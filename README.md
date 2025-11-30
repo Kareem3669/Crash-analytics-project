@@ -53,7 +53,7 @@ Six interactive pages provide deep insights into accident trends:
   - Urban vs rural distribution (54.28% rural vs 45.72% urban).
   - Road type analysis (Highway, Main Road, Street).
 
-  ### **Page 2: Geographic Analysis**
+### **Page 2: Geographic Analysis**
 - Total accidents and fatalities by region.
 - Country-level accident and injury data.
 - Heatmaps for accident density.
