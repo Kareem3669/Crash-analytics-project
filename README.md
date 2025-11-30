@@ -108,7 +108,8 @@ Six interactive pages provide deep insights into accident trends:
 - **Python**: Pandas, Matplotlib, Seaborn
 - **Power BI**: Interactive dashboards
 - **Data Sources**: Accidents, Casualties, Weather datasets
-
+- **Excel(Power Query)**: Data Cleaning
+- 
 ---
 
 ## 📊 Dashboard Preview
