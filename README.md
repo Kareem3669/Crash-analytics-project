@@ -22,10 +22,6 @@ Crash Analytics is a data-driven project designed to analyze global traffic acci
 ### **2. Python EDA**
 - Merged datasets on `Accident ID`.
 - Checked for missing values, duplicates, and data types.
-- Visualizations:
-  - Accidents by region and time of day.
-  - Severity vs visibility.
-  - Correlation heatmaps.
 - **Key Insights**:
   - Evening/night → highest accident frequency.
   - Poor visibility and bad weather increase severity.
