@@ -83,9 +83,7 @@ Six interactive pages provide deep insights into accident trends:
 - Fatalities and injuries by severity.
 - Correlation with time of day and emergency response time.
 
-### **Page 6: Predictive Indicators**
-- Emergency response time correlation with severity.
-- Risk indices for weather and road conditions.
+
 
 ---
 
