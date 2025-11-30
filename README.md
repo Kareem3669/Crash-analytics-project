@@ -53,7 +53,12 @@ Six interactive pages provide deep insights into accident trends:
   - Urban vs rural distribution (54.28% rural vs 45.72% urban).
   - Road type analysis (Highway, Main Road, Street).
 
-### **Page 2: Casualties & Driver Analysis**
+  ### **Page 2: Geographic Analysis**
+- Total accidents and fatalities by region.
+- Country-level accident and injury data.
+- Heatmaps for accident density.
+
+### **Page 3: Casualties & Driver Analysis**
 - Accidents by **driver gender** (Male vs Female).
 - Injuries by gender.
 - Accident causes:
@@ -66,24 +71,17 @@ Six interactive pages provide deep insights into accident trends:
 - Severity breakdown:
   - Minor, Moderate, Severe accidents with fatalities and injuries.
 
-### **Page 3: Weather & Road Conditions**
+### **Page 4: Accident Severity & Type**
+- Severity breakdown: Minor, Moderate, Severe.
+- Fatalities and injuries by severity.
+- Correlation with time of day and emergency response time.
+
+### **Page 5: Weather & Road Conditions**
 - **Weather Impact Index** by region.
 - **Road Condition Risk Index** by region.
 - Accidents by weather type (Rainy, Snowy, Foggy, Clear).
 - Fatalities by road condition (Icy, Wet, Snow-covered, Dry).
 - Visibility and poor road condition percentages.
-
-### **Page 4: Geographic Analysis**
-- Total accidents and fatalities by region.
-- Country-level accident and injury data.
-- Heatmaps for accident density.
-
-### **Page 5: Accident Severity & Type**
-- Severity breakdown: Minor, Moderate, Severe.
-- Fatalities and injuries by severity.
-- Correlation with time of day and emergency response time.
-
-
 
 ---
 
